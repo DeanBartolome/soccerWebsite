@@ -1,0 +1,54 @@
+.container {
+    background-color: white;
+}
+
+#teamName {
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+#overview, #fixture {
+    background-color: white;
+}
+#tPlayer {
+   border: 1px solid;
+}
+
+#row{
+    background-color: #3DB3D1;
+}
+body {
+    background-image: url('../pics/wallpaper.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
+#align{
+    margin-top: 60px;
+}
+
+#team img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.navbar-brand,
+.navbar-nav li a {
+    line-height: 30px;
+    height: 20px;
+    padding-top: 5px;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color:blue;
+}
+
+#nav {
+    font-weight: bold;
+}
+
